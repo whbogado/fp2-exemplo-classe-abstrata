@@ -8,7 +8,6 @@
     <packaging>jar</packaging>
 
     <name>FP2 :: Exemplo :: Classe Abtrata</name>
-    <url>http://dainf.ct.utfpr.edu.br</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
