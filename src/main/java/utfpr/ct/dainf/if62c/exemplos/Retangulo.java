@@ -15,10 +15,12 @@ public class Retangulo extends Quadrilatero {
         super(base, altura);
     }
 
+    @Override
     public double getArea() {
         return getBase() * getAltura();
     }
 
+    @Override
     public double getPerimetro() {
         return (getBase() + getAltura()) * 2;
     }
